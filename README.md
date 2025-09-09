@@ -136,7 +136,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Email**: rcdurazo@gmail.com
 - **LinkedIn**: [linkedin.com/in/rdurazo](https://www.linkedin.com/in/rdurazo/)
-- **Portfolio**: [your-portfolio-url.com](https://your-portfolio-url.com)
+- **Portfolio**: [your-portfolio-url.com](https://richarddurazo.com/)
 
 ---
 
